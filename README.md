@@ -24,7 +24,7 @@ Clean Streamlit UI with instant code generation
 
 ⚙️ Setup
 ```bash
-git clone https://github.com/krrishtayal/NL2-Code-Converter.git
+git clone https://github.com/kartikkes02/Natural-Language-to-Python-Code-Converter.git
 cd NL2-Code-Converter
 pip install -r requirements.txt
 streamlit run app.py
