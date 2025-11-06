@@ -1,4 +1,4 @@
-🐍 NL2-Code-Converter
+🐍 Natural Language to Python Code Converter
 
 A simple Streamlit app that converts natural language commands into Python code using rule-based parsing.
 
@@ -25,7 +25,7 @@ Clean Streamlit UI with instant code generation
 ⚙️ Setup
 ```bash
 git clone https://github.com/kartikkes02/Natural-Language-to-Python-Code-Converter.git
-cd NL2-Code-Converter
+cd Natural Language to Python Code Converter
 pip install -r requirements.txt
 streamlit run app.py
 ```
