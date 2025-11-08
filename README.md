@@ -1,4 +1,4 @@
-🐍 Natural Language to Python Code Converter
+## 🐍 Natural Language to Python Code Converter
 
 A simple Streamlit app that converts natural language commands into Python code using rule-based parsing.
 
